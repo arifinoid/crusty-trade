@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "bond-futures-basis": {
+      "source": "anthropics/financial-services-plugins",
+      "sourceType": "github",
+      "skillPath": "plugins/partner-built/lseg/skills/bond-futures-basis/SKILL.md",
+      "computedHash": "0f9229e21e8f300bbb6f025858c60c580e7d8c58ccdcbf2e2a8f3626887a7621"
+    },
+    "fp-ts-pragmatic": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fp-ts-pragmatic/SKILL.md",
+      "computedHash": "05657f503cda3701c9cd2f7d3b16dff3070e063b552a7d0ba002caddd3985764"
+    },
+    "fp-ts-react": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fp-ts-react/SKILL.md",
+      "computedHash": "150fefcad9fa58a029a58e48efcbf271e26088be84866dd3d0112657948510fc"
+    },
+    "tauri-v2": {
+      "source": "nodnarbnitram/claude-code-extensions",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/tauri-v2/SKILL.md",
+      "computedHash": "377c61c46cf48c35b942042bc8abb9a039049a47f37d7f12b4f491d012777490"
+    },
+    "trading-signal": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "skillPath": "skills/binance-web3/trading-signal/SKILL.md",
+      "computedHash": "3363c91803ed82496034ffbf54b5407ecc9a7713c994fe941328b7be6fccdcf6"
+    }
+  }
+}
